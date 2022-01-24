@@ -1,1 +1,1 @@
-# -postgres-with-extensions
+# postgres-with-extensions
